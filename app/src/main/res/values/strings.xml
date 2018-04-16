@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cafe">Cafe</string>
+    <string name="res">Resturant</string>
+    <string name="hotel">Hotel</string>
+    <string name="his">Historical Sites</string>
+    <string name="honame1">Relais Christine</string>
+    <string name="hodes1">The hotel offers a concierge service and
+                 bicycles are available. It is a 10-minute walk from the Musée d\'Orsay the Luxembourg Gardens
+                "and the Louvre Museum. </string>
+    <string name="hos1">In the heart of Saint-Germain-des-Prés
+                just 700 m from Notre-Dame Cathedral</string>
+    <string name="ho2na">Saint James Paris</string>
+    <string name="ho2des">elegant 19th-century building with its own private garden."
+                        " Spa facilities, in partnership with Guerlain,
+                        "are available on site.</string>
+    <string name="ho2s">43 Avenue Bugeaud, 16th arrondissement - Passy - Trocadero, Paris, France</string>
+    <string name="cafen1">Le Select</string>
+    <string name="cafe1d">One of the great classic Parisian café-brasseries in bustling
+                        Montparnasse, this one gets bragging rights for its long list of past
+                        clients</string>
+    <string name="cafe1s">35 Rue Legendre 75017 Paris</string>
+    <string name="cafe2n">Les Deux Magots</string>
+    <string name="cafe2d">rab a newspaper and a café"
+                 crème, and plant yourself on the sunny terrace while you imagine the days when"
+                 Ernest Hemingway, Albert Camus, and Pablo Picasso rubbed elbows in this"
+                 very spot."</string>
+    <string name="cafe2s">75008 Paris 08</string>
+    <string name="cafe3n">Cafe de Flore</string>
+    <string name="cafe3d">Across the street from rival Les Deux Magots, Le Cafe de Flore"
+                " has changed little since World War II: red booths, wide mirrors, "
+                "and an enviable clientele.</string>
+    <string name="cafe3s">History Group Shop, 38 Avenue de la Bourdonnais, 75007 Paris</string>
+    <string name="R1n">Saïdoune</string>
+    <string name="R1d">Spécialités 
+                Mezzes\n
+                grillades au feu de bois\n
+                plat du jour\n
+                spécialités libanaises\n
+                Knafeh","35 Rue Legendre</string>
+    <string name="R1s">75017 Paris</string>
+    <string name="R2n">Maison Blanche</string>
+    <string name="R2d">Perché sur le toit du
+                " théâtre des Champs Elysées au 15 de l’Avenue "
+                "Montaigne, le restaurant Maison Blanche surplombe "
+                "Paris, offrant une vue imprenable sur la Tour "
+                "Eiffel, les Invalides et la Seine.</string>
+    <string name="R2s">En métro: Ligne 1 et 9 - Franklin D. Roosevelt"
+                " Ligne 9 - Alma-Marceau</string>
+    <string name="R3n">Crêperie Framboise</string>
+    <string name="R3d">Dans un décor résolument contemporain, au 51 Avenue "
+                "de la Motte-Picquet, le restaurant Crêperie Framboise vous fera "
+                "découvrir autrement tous les plaisirs de la crêperie.</string>
+    <string name="R3s">1 Avenue de la Motte-Picquet, 75015 paris</string>
+    <string name="h1n">Eiffel Tower</string>
+    <string name="h1d">ave time at the Eiffel Tower and stay a step ahead "
+                        "of the crowds by choosing a priority-access ticket to the "
+                        "second level. Avoid the legendary lines at one of the "
+                        "world’s most-visited monuments."</string>
+    <string name="h1s">History Group Shop, 38 Avenue de la Bourdonnais, 75007 Paris</string>
+    <string name="h2n">Paris Illuminations 1-Hour Cruise</string>
+    <string name="h2d">Take a night cruise of the River Seine and see Paris "
+                "illuminated for the night. Listen to the on board audio-guide "
+                "commentary (available in 13 languages) to learn more about"
+                " the Eiffel Tower, Louvre Museum, and other attractions.</string>
+    <string name="h2s">Port de la Bourdonnais (at the foot of the Eiffel Tower), Pontoon No. 3, 75007 Paris</string>
+
+</resources>
